@@ -6,7 +6,7 @@ metadata:
   namespace: acm-channels
 spec:
   type: GitHub
-  pathname: http://yourgitserver/openshift/thisrepo.git
+  pathname: https://github.com/francescomilizia/acm-policies
 #  configMapRef:
 #    name: git-certca
 #  secretRef:
